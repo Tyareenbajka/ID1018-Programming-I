@@ -1,4 +1,4 @@
-# ID1018-Programming-I
+# ID1018 Programming I
 
 ## Course contents
 
