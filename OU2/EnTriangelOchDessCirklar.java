@@ -1,3 +1,5 @@
+// Philip Tonaczew 2019-11-25
+
 import java.util.Scanner;
 
 public class EnTriangelOchDessCirklar {
