@@ -1,3 +1,5 @@
+// Philip Tonaczew 2019-12-01
+
 public class DenKortasteVagen {
 
     // mellanstationer returnerar en vektor med de mellanstationer som finns på den kortaste
