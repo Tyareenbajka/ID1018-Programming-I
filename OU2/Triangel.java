@@ -1,4 +1,5 @@
 /**
+ * Philip Tonaczew 2019-11-25
  * Klass som innehåller olika formler för olika beräkningar på trianglar
  */
 public class Triangel {
