@@ -1,3 +1,5 @@
+// Philip Tonaczew 2019-12-01
+
 public class BestamDenKortasteVagen {
     public static void main(String[] args) {
         double[] arrayX ={17, 20, 30};
